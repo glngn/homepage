@@ -1,0 +1,4 @@
+baseURL = "//glngn.com/"
+languageCode = "en-us"
+title = "Welcome!"
+theme = "slick"
