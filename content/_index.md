@@ -8,7 +8,7 @@ Coming Soon:
 
 * To-Be-Named service framework - a "batteries included" system for developing business operation services in Scala.
 
-Contact us at <a href="mailto:glngn.llc@gmail.com">glngn.llc@gmail.com</a>
+Contact us at <a href="mailto:glngn.llc@gmail.com" target="_blank">glngn.llc@gmail.com</a>
 
 Projects we help with:
 
