@@ -6,7 +6,7 @@ GLNGN LLC provides products and consulting for small business web services.
 
 Coming Soon:
 
-* Goal Engine Server - a "batteries included" framework for developing event sourced businesses in Scala.
+* Goal Engine Server - a "batteries included" framework for developing event sourced busines services in Scala.
 
 Contact us at <a href="mailto:glngn.llc@gmail.com" target="_blank">glngn.llc@gmail.com</a>
 
