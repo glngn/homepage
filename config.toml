@@ -61,8 +61,8 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Install"
-    url = "/"
+    name = "Getting Started"
+    url = "/getting-started"
     weight = 2
   [[menu.nav]]
     name = "Blog"
