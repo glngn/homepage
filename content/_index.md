@@ -6,9 +6,10 @@ GLNGN LLC provides products and consulting for small business web services.
 
 Products
 
-- glngn server - a "batteries included" framework for business process as a service development. Conceptually similar to
-Microsoft Access or Apple FileMaker (but scalable!) for event sourced business services.
-  - <a href="http://docs.glngn.com"> Documentation </a>
+- glngn server is a low-code business process as a service rapid development system. Conceptually
+similar to a programmable Microsoft Access or Apple FileMaker designed for event sourced business
+services.
+    - <a href="http://docs.glngn.com"> Documentation </a>
     - <a href="http://docs.glngn.com/latest/manual">Manual and Getting Started</a>
     - <a href="http://docs.glngn.com/latest/api">Customization API Reference</a>
 
