@@ -6,8 +6,9 @@ services.
 - <a href="http://docs.glngn.com/latest/manual">Manual and Getting Started</a>
 - <a href="http://docs.glngn.com/latest/api">Customization API Reference</a>
 
-glngn server is a DogHeadBone LLC product. In addition to commercial support and licenses for glngn
-server, DogHeadBone LLC provides products and consulting for small businesses.
+glngn server is a <a href="https://dogheadbone.com/">DogHeadBone LLC</a> product. In addition to
+commercial support and licenses for glngn server, DogHeadBone LLC provides products and consulting
+for small businesses.
 
 - Sustaining and development of small business web sites and services
     - Scala, Akka, RPC and REST
