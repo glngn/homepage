@@ -11,7 +11,7 @@ commercial support and licenses for glngn server, DogHeadBone LLC provides produ
 for small businesses.
 
 - Sustaining and development of small business web sites and services
-    - Scala, Akka, RPC and REST
+    - Scala, Pekko, RPC and REST
 - Design and development of serverless backends.
     - DynamoDB storage design and development
 - Nix and NixOS integration, customization, and deployment
